@@ -1,4 +1,6 @@
-﻿namespace SalesWebMvc.Models
+﻿using System.Collections.Generic;
+
+namespace SalesWebMvc.Models
 {
     public class Department
     {

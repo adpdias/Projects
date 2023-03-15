@@ -17,6 +17,7 @@ C:\Users\adpdi\OneDrive\Documentos\Projects\SalesWebMvc\SalesWebMvc\obj\Debug\ne
 C:\Users\adpdi\OneDrive\Documentos\Projects\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.TagHelpers.input.cache
 C:\Users\adpdi\OneDrive\Documentos\Projects\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.TagHelpers.output.cache
 C:\Users\adpdi\OneDrive\Documentos\Projects\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.RazorCoreGenerate.cache
+C:\Users\adpdi\OneDrive\Documentos\Projects\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Index.cshtml.g.cs
 C:\Users\adpdi\OneDrive\Documentos\Projects\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
 C:\Users\adpdi\OneDrive\Documentos\Projects\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
 C:\Users\adpdi\OneDrive\Documentos\Projects\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
@@ -34,4 +35,3 @@ C:\Users\adpdi\OneDrive\Documentos\Projects\SalesWebMvc\SalesWebMvc\obj\Debug\ne
 C:\Users\adpdi\OneDrive\Documentos\Projects\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.pdb
 C:\Users\adpdi\OneDrive\Documentos\Projects\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.genruntimeconfig.cache
 C:\Users\adpdi\OneDrive\Documentos\Projects\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csproj.CopyComplete
-C:\Users\adpdi\OneDrive\Documentos\Projects\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Index.cshtml.g.cs
